@@ -1655,3 +1655,8 @@
         border-top-color: #333;
     }
 }
+
+/* kyon */
+.a3s, .g6 {
+    font-size: 0.87rem !important;  /* mail body font size */
+}
