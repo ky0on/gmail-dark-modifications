@@ -1,4 +1,4 @@
-﻿# Gmail Dark Theme Tweaks
+# Gmail Dark Theme Tweaks
 This style adds a dark theme to additional UI elements on the Gmail webpage. It also makes slight modifications to the appearance of certain elements, including restoring the red compose button.
 
 There is also support for add-ons that add additional modifications (see bottom of description)
@@ -33,9 +33,7 @@ Add-ons:<br>
 
 Install [Stylus](https://add0n.com/stylus.html) for either [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/) and then install the style using one of these methods:
 
-📦 [Install the usercss](https://github.com/jackbuehner/gmail-dark-modifications/raw/master/gmail-dark.less.user.css), which supports full customization and automatic updates.<br>
-📦 [Install from userstyles.org](https://userstyles.org/styles/159026) with no customization or automatic updates.<br>
-📦 [Install manually from GitHub](https://github.com/jackbuehner/gmail-dark-modifications/raw/master/gmail-dark.css) with no customization or automatic updates, but useful for development. The style is in Mozilla format.<br>
+📦 [Install the usercss](https://github.com/ky0on/gmail-dark-modifications/raw/master/gmail-dark.less.user.css), which supports full customization and automatic updates.<br>
 
 
 If you would like to contribute to this repository, please...
